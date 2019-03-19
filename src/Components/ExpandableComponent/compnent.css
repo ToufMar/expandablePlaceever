@@ -1,0 +1,16 @@
+#container{
+    display: flex;
+    width: 47vw;
+    height: 30vh;
+    background-color: aquamarine;
+    padding: 1px;
+    -ms-overflow-style: none;
+    overscroll-behavior: none
+    
+    /* position: fixed; */
+}
+
+.touchAction{
+    touch-action: none !important;
+    
+}
